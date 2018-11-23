@@ -1,4 +1,4 @@
-package blockchain.impl;
+package netchain.impl;
 
 public class Netchain {
 
